@@ -4,7 +4,9 @@
 
 Export your Spotify playlist metadata for analysis or just safekeeping: [exportify.net](https://exportify.net)
 
-<a href="https://pavelkomarov.com/exportify"><img src="screenshot.png"/></a>
+<a href="https://pavelkomarov.com/exportify"><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/065b458b-b90b-4ca0-8354-edfa8e7b5275" /></a>
+
+
 
 ### Export Formats
 
