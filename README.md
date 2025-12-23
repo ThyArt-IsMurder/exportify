@@ -6,7 +6,7 @@ Export your Spotify playlist metadata for analysis or just safekeeping: [exporti
 
 <a href="https://pavelkomarov.com/exportify"><img src="screenshot.png"/></a>
 
-### Export Format
+### Export Formats
 
 Playlist data is exported in [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) format with the following fields:
 
@@ -64,7 +64,7 @@ Data science stuff is written with Python in `taste_analysis.ipynb`, which you c
 
 ### Contributing
 
-1. Fork it
+1. Fork it 
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -m "message"`)
 4. Push to the branch (`git push origin my-new-feature`)
